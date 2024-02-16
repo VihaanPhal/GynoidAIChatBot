@@ -1,0 +1,8 @@
+C:\Users\vphal\source\repos\GynoidChatBot\GynoidServiceConsumer\bin\Debug\GynoidServiceConsumer.exe.config
+C:\Users\vphal\source\repos\GynoidChatBot\GynoidServiceConsumer\bin\Debug\GynoidServiceConsumer.exe
+C:\Users\vphal\source\repos\GynoidChatBot\GynoidServiceConsumer\bin\Debug\GynoidServiceConsumer.pdb
+C:\Users\vphal\source\repos\GynoidChatBot\GynoidServiceConsumer\obj\Debug\GynoidServiceConsumer.csproj.AssemblyReference.cache
+C:\Users\vphal\source\repos\GynoidChatBot\GynoidServiceConsumer\obj\Debug\GynoidServiceConsumer.csproj.SuggestedBindingRedirects.cache
+C:\Users\vphal\source\repos\GynoidChatBot\GynoidServiceConsumer\obj\Debug\GynoidServiceConsumer.csproj.CoreCompileInputs.cache
+C:\Users\vphal\source\repos\GynoidChatBot\GynoidServiceConsumer\obj\Debug\GynoidServiceConsumer.exe
+C:\Users\vphal\source\repos\GynoidChatBot\GynoidServiceConsumer\obj\Debug\GynoidServiceConsumer.pdb

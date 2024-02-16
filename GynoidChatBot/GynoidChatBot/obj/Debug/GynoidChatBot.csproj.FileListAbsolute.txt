@@ -1,0 +1,10 @@
+C:\Users\vphal\source\repos\GynoidChatBot\GynoidChatBot\obj\Debug\GynoidChatBot.csproj.AssemblyReference.cache
+C:\Users\vphal\source\repos\GynoidChatBot\GynoidChatBot\obj\Debug\GynoidChatBot.csproj.CoreCompileInputs.cache
+C:\Users\vphal\source\repos\GynoidChatBot\GynoidChatBot\bin\GynoidChatBot.dll.config
+C:\Users\vphal\source\repos\GynoidChatBot\GynoidChatBot\bin\GynoidChatBot.dll
+C:\Users\vphal\source\repos\GynoidChatBot\GynoidChatBot\bin\GynoidChatBot.pdb
+C:\Users\vphal\source\repos\GynoidChatBot\GynoidChatBot\bin\Newtonsoft.Json.dll
+C:\Users\vphal\source\repos\GynoidChatBot\GynoidChatBot\bin\Newtonsoft.Json.xml
+C:\Users\vphal\source\repos\GynoidChatBot\GynoidChatBot\obj\Debug\GynoidChatBot.csproj.CopyComplete
+C:\Users\vphal\source\repos\GynoidChatBot\GynoidChatBot\obj\Debug\GynoidChatBot.dll
+C:\Users\vphal\source\repos\GynoidChatBot\GynoidChatBot\obj\Debug\GynoidChatBot.pdb

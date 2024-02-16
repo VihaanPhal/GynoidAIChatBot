@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GynoidChatBot", "GynoidChatBot\GynoidChatBot.csproj", "{A132488B-BF04-47BF-BA56-B68F61CCB43B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GynoidServiceConsumer", "GynoidServiceConsumer\GynoidServiceConsumer.csproj", "{4C4681A2-AC31-400E-97D8-B150B219C37A}"
+	ProjectSection(ProjectDependencies) = postProject
+		{A132488B-BF04-47BF-BA56-B68F61CCB43B} = {A132488B-BF04-47BF-BA56-B68F61CCB43B}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A132488B-BF04-47BF-BA56-B68F61CCB43B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A132488B-BF04-47BF-BA56-B68F61CCB43B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A132488B-BF04-47BF-BA56-B68F61CCB43B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A132488B-BF04-47BF-BA56-B68F61CCB43B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C4681A2-AC31-400E-97D8-B150B219C37A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C4681A2-AC31-400E-97D8-B150B219C37A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C4681A2-AC31-400E-97D8-B150B219C37A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C4681A2-AC31-400E-97D8-B150B219C37A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B713CB31-1394-4443-B7F2-7C505F3945A0}
+	EndGlobalSection
+EndGlobal
